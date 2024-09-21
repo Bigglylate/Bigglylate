@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bigglylate
--  I’m interested in creating games and playing them.
-- 🌱 I’m currently learning database desgin and C++ 
+-  I’m interested in creating games and playing them. Also enjoy data visualization and analytics  
+- 🌱 I’m currently learning database design and C++
+- Have exposure on JavaScript and PHP.
 
 <!---
 Bigglylate/Bigglylate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
