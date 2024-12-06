@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bigglylate
 -  I’m interested in creating games and playing them. Also enjoy data visualization and analytics  
-- 🌱 I’m currently learning database design and C++
+- 🌱 I’m currently learning database design and C++. Currently learning how to create games with Phaser.
 - Have exposure on JavaScript and PHP.
 
 <!---
