@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Bigglylate
+- 👋 Hi, I’m @Colin Chik
 -  I’m interested in creating games and playing them. Also enjoy data visualization and analytics  
-- 🌱 I’m currently learning database design and C++. Currently learning how to create games with Phaser.
+- Currently learning Japanese as a secondary language.
+- Currently focusing on creating a Japanese to Enlgish TTS as a good way to practice my coding.
 - Have exposure on JavaScript and PHP.
 
 <!---
